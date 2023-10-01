@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @OSFINCOMEACADEMY
 - 👀 I’m interested in developing a website
-- 🌱 I’m currently learning code perfectly
-- 💞️ I’m looking to collaborate on SEO optimization on my website
+- 🌱 I’m currently learning code perfectly to solve world problem
+- 💞️ I’m looking to collaborate on coding a software for Climate Solutions
 - 📫 How to reach me, Email at osfincomeacademy@gmail.com
 
 <!---
